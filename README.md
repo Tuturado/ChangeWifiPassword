@@ -18,7 +18,7 @@ Foram utilizadas as seguintes tecnologias na construção do código:
 ---
 
 <a href="https://www.linkedin.com/in/alef-paula-aa98041ba/">
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQHQhVF1DcK4BQ/profile-displayphoto-shrink_800_800/0/1626360406690?e=1632960000&v=beta&t=tMjskRXeBS5gWFRKy-a55Kvm7td-bQI5hyxwzHlS5mQ" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQHQhVF1DcK4BQ/profile-displayphoto-shrink_800_800/0/1626360406690?e=1638403200&v=beta&t=iiWyAVEA37996CkECQNCHu5EkMAqNUS0yDqSoe9mZDA" width="100px;" alt=""/>
  <br />
  <sub><b>Alef de Paula</b></sub></a> <a href="https://www.linkedin.com/in/alef-paula-aa98041ba/ title="LinkedIn">:desktop_computer:</a>
  
