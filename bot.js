@@ -44,8 +44,10 @@ async function sendEmail(){
   const mailSent = transporter.sendMail({
       text: `ALERTA: A senha do wifi está sendo alterada para ${aleatoryPassword}. Em 5 minutos essa será a nova senha da rede.`,
       subject: 'Alteração da senha do Wifi',
-      from: 'Alef de Paula <alef23073@gmail.com>',
-      to: ['alef23073@gmail.com', 'bisporicardo30@gmail.com', 'alyssongudefoda@outlook.com']
+      //Quem enviará o email  
+      from: '',
+      //Quem receberá o email
+      to: ['']
   });
 
   console.log(mailSent);
