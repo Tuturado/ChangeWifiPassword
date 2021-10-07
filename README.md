@@ -1,4 +1,4 @@
-# Bot para alterar a senha do Wifi 🤖:
+# Bot para alterar a senha do Wifi 🤖
 Automação desenvolvida em Node para alterar a senha do Wifi usando uma senha aleatória com 6 números, 1 caracter maiúsculo, 1 minúsculo e um símbolo, antes da senha nova ser salva no roteado o usuário tem 5 minutos para verificar sua caixa de email onde estará disponível a nova senha do Wifi.
 
 ### Status do Projeto :white_check_mark:
